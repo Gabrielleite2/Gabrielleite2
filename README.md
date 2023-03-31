@@ -13,8 +13,8 @@
  <div style="display: inline_block"><br> 
  <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Gabrielleite2&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: cobalt)"
+  srcset="https://github-readme-stats.vercel.app/api?username=Gabrielleite2&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: Dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Gabrielleite2&show_icons=true"
@@ -23,12 +23,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Gabrielleite2&show_icons=true" />
 </picture>
 </div>
-<div style="display: inline_block"><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-</div>
-
