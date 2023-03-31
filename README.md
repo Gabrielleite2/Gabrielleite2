@@ -22,4 +22,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Gabrielleite2&show_icons=true" />
 </picture>
+  
+  <div style="display: inline_block"> 
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielleite2&langs_count=8)](https://github.com/Gabrielleite2/github-readme-stats" 
+       />
+    </a>
+  
+  </div>
 </div>
