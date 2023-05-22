@@ -31,3 +31,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabrielleite2}/count.svg" /></p> 
 <br>
 </div>
+
+
+
+### Oiii eu sou a Gabriel leite, aluno de Sistemas de Informação!
