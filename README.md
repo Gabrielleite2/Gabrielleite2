@@ -2,6 +2,7 @@
 
 
 
+[![Ashutosh's github activity grap](https://github-readme-activity-graph.cyclic.app/graph?username=Gabrielleite2&bg_color=ffffff&color=2924d6&line=2924d6&point=2924d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
