@@ -36,4 +36,4 @@
 
 
 
-### Oiii eu sou a Gabriel leite, aluno de Sistemas de Informação!
+### Oiii eu sou Gabriel leite, aluno de Sistemas de Informação!
